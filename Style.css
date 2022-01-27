@@ -11,6 +11,7 @@ body,html{
 }
 body{
     background: linear-gradient(#2b1055,#7597de);
+    overflow-x: hidden;
 }
 nav{
     position: absolute;
